@@ -1,10 +1,11 @@
 - # sobre mim
 -
+- meu email é stephnay.silverio@escola.pr.gov.br
 - 👋 olá meu nome é @stephanytadashi09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 eu estou interessado em aprender a programar novas línguagens
+- 🌱 eu estou aprendendo a programar recentemente a línguagem de JavaScript e Scratch
+- 
+- 
 
 <!---
 stephanytadashi09/stephanytadashi09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
