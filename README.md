@@ -1,7 +1,7 @@
 - # sobre mim
 -
 - meu email é stephnay.silverio@escola.pr.gov.br
-- 👋 olá meu nome é @stephanytadashi09
+- 👋 olá meu nome é @stephany
 - 👀 eu estou interessado em aprender a programar novas línguagens
 - 🌱 eu estou aprendendo a programar recentemente a línguagem de JavaScript e Scratch
 - 
